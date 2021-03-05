@@ -67,3 +67,5 @@ export function CountdownProvider({ children }: CountdownProviderProps){
         </CountdownContext.Provider>
     )
 }
+
+export default CountdownContext;

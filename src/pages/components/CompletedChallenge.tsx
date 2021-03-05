@@ -13,3 +13,5 @@ export function CompletedChallenges(){
         </div>
     );
 }
+
+export default CompletedChallenges;

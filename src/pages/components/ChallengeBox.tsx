@@ -62,3 +62,5 @@ export function ChallengeBox () {
         </div>
     );
 }
+
+export default ChallengeBox;

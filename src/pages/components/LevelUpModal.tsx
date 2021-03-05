@@ -20,3 +20,5 @@ export function LevelUpModal(){
         </div>
     )
 }
+
+export default LevelUpModal;
